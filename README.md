@@ -27,6 +27,7 @@ Saya juga pernah bereksperimen melakukan image classification untuk mengetahui g
 
 Jika kamu tertarik untuk berkenalan, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/yogapramudana/) ini ya.
 
+<div align=center>
 ## **Tools and languages I use**
  
 <img align="center" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
