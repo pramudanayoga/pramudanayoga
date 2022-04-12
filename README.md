@@ -26,7 +26,7 @@ Saat ini saya sedang belajar Machine Learning di program [**BANGKIT 2022**](http
 
 Saya juga pernah bereksperimen melakukan image classification untuk mengetahui gender seseorang berdasarkan foto wajah mereka. Berikut [link hasil eksperimen](https://github.com/pramudanayoga/Image-Classification---Transfer-Learning-CNN) saya.
 
-Jika kamu tertarik untuk berkenalan, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/yogapramudana/) ini ya.
+Jika kamu tertarik untuk berkenalan, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/yogapramudana/) ini ya.
 
 ## **Tools and languages I use**
 <div align=center>
